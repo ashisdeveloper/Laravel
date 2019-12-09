@@ -1,3 +1,12 @@
+# Routing
+## Basic Routing
+```markdown
+Route::get('foo', function () {
+    return 'Hello World';
+});
+```
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mrashis/Laravel/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
