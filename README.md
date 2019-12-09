@@ -1,5 +1,6 @@
 # Routing
-## Basic Routing
+[Link](https://laravel.com/docs/6.x/routing)
+### Basic Routing
 ```markdown
 Route::get('foo', function () {
     return 'Hello World';
